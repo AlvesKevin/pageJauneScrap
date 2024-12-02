@@ -10,7 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Répertoire où les données de profil seront stockées
-profile_directory = r'C:\Users\Kévin\PycharmProjects\pagesjaune\profil'
+profile_directory = r'\pagesjaune\profil'
 
 # Chemin du fichier de sauvegarde des informations des entreprises
 output_file = 'entreprises.json'
